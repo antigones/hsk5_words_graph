@@ -2,7 +2,7 @@
 
 Just a graph representation of the words sharing some components for HSK5.
 
-hsk5_word_graph.py is a simple python script that builds a pseudo adjacency list suitable to be imported by Gephi.
+hsk5_word_graph.py is a simple python script that builds a pseudo adjacency list suitable to be imported by Gephi: I know it's not perfect but well...It gives the general idea.
 
 The word list (ordered by frequency) has been taken from http://www.hskhsk.com/word-lists.html
 
