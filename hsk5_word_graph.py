@@ -25,7 +25,7 @@ for i in range(0,len(word_array)):
                 opp_hanzi = opp_word[w]
                 if (i != k):
                     if (opp_hanzi == hanzi):
-					# equal to the source word
+			# equal to the source word, deliberately don't care about duplicate words
                         cur_values = hmap.get(hanzi,[])
                         cur_values.append(opp_word)
                         hmap[hanzi] = cur_values
