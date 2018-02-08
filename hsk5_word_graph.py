@@ -5,7 +5,7 @@ import csv
 word_array = []
 file = open("output.csv","w",encoding='utf8') 
 
-with open('HSK5_freqorder.txt', 'r',encoding='utf8') as csvfile:
+with open("HSK5_freqorder.txt", 'r',encoding='utf8') as csvfile:
     freader = csv.reader(csvfile, delimiter='\t')
     for row in freader:
         word_array.append(row[0])
