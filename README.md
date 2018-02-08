@@ -6,7 +6,7 @@ hsk5_word_graph.py is a simple python script that builds a pseudo adjacency list
 
 The word list (ordered by frequency) has been taken from http://www.hskhsk.com/word-lists.html
 
-Here it is a "full resolution" svg image of the whole HSK5 word universe:
+Here it is a "full resolution" svg image of the whole HSK5 word universe sharing some component:
 
 ![hsk5_full_view](hsk5_full_view.svg)
 
