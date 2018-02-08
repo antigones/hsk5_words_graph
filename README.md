@@ -1,6 +1,6 @@
 # HSK5 Word Graph
 
-Just a graph representation of the word list for HSK5
+Just a graph representation of the words sharing some components for HSK5.
 
 hsk5_word_graph.py is a simple python script that builds an adjacency list suitable to be imported by Gephi.
 
